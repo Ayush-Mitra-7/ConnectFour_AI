@@ -4,8 +4,8 @@ Created a AI using Heuristic search and MinMax Algorithm to play against Human i
 
 Start of the game
 
-![GUI_start](screenshots\connect_Four_1.png)
+![GUI_start](.\screenshots\connect_Four_1.png)
 
 End of the game
 
-![GUI_start](screenshots\connect_Four_2.png)
+![GUI_start](.\screenshots\connect_Four_2.png)
